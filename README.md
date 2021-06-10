@@ -13,5 +13,5 @@ About me:
 Instagram - https://www.instagram.com/dimitris_18/ </br>
 Facebook - https://www.facebook.com/dimitris.savva.3/ </br>
 Discord - Username: Mitsioz#2060 </br>
-<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I love to dance, working out, and playing video games
+<!-- - 😄 Pronouns: ... -->
