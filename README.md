@@ -5,7 +5,7 @@ I am a graduate student from Swansea University (Graduation year 2021)
 About me: 
 
 - 🔭 I’m currently not working on ...
-- 🌱 I’m currently learning Cyber Security. 
+- 🌱 I’m currently studying Cyber Security. 
 - 👯 I’m looking to collaborate with others in interesting projects.
 - 🤔 I’m looking for help with Networks.
 - 💬 Ask me about anything.
